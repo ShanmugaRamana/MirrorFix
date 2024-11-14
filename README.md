@@ -7,7 +7,7 @@ Easily Remove Glare and Reflections from images without affecting the original i
 
 
 # Project Architecture
-![architecture](https://github.com/user-attachments/assets/09d70d3f-ff05-4931-a7a1-43ea74c8a58b)
+![architecture](https://github.com/user-attachments/assets/6c5f4a00-5bcf-4cc1-809c-17d3522ac894)
 
 # Procedure To Run
 ### 1. Train Model
