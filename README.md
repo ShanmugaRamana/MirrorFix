@@ -9,7 +9,7 @@ Easily Remove Glare and Reflections from images without affecting the original i
 # Project Architecture
 
 # Procedure To Run
-
+![architecture)](https://github.com/user-attachments/assets/68471ccb-a3a5-455f-bbe2-b3d3c297b1b7)
 ### 1. Train Model
 Run /scripts/train.py and model will be saved at the path /models/reflection_removal_model.pth
 
@@ -18,5 +18,6 @@ Run /scripts/train.py and model will be saved at the path /models/reflection_rem
 <li>Select Process option</li>
 <li>Browse the input image</li>
 <li>output image will be saved</li>
+
 
 
