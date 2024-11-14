@@ -15,8 +15,8 @@ Run /scripts/train.py and model will be saved at the path /models/reflection_rem
 
 ### 2. Run Inference on an Image
 <li>Run app.py</li>
-<li>Select Process option</li><br>
-<li>Browse the input image</li><br>
+<li>Select Process option</li>
+<li>Browse the input image</li>
 <li>output image will be saved</li>
 
 
