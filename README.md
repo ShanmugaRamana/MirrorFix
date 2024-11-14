@@ -6,5 +6,17 @@ Easily Remove Glare and Reflections from images without affecting the original i
 # Dataset
 
 
-# Procedure
+# Project Architecture
+
+# Procedure To Run
+
+### 1. Train Model
+Run /scripts/train.py and model will be saved at the path /models/reflection_removal_model.pth
+
+### 2. Run Inference on an Image
+1.Run app.py
+2.Select Process option
+3.Browse the input image
+4.output image will be saved
+
 
