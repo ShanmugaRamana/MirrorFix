@@ -11,7 +11,6 @@ from scripts.evaluate import evaluate_model
 import matplotlib.pyplot as plt
 
 def process_single_image(model, image_path, output_path, device='cuda'):
-    # Process image logic remains unchanged
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     
     # Load and preprocess image
