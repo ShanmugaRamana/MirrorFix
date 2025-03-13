@@ -13,7 +13,6 @@ import matplotlib.pyplot as plt
 def process_single_image(model, image_path, output_path, device='cuda'):
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     
-    # Load and preprocess image
     transform = transforms.Compose([
         transforms.Resize((512, 512)),
         transforms.ToTensor(),
