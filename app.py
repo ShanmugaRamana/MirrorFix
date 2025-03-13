@@ -1,4 +1,3 @@
-# app.py
 import torch
 import argparse
 import os
